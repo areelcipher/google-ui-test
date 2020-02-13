@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.result {
+    margin-left: 180px;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 10px;
+    color: #848484;
+}
+.result h3 {
+    font-size: 14px;
+    margin-left: 20px;
+}
